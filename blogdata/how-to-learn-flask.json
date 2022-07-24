@@ -1,0 +1,7 @@
+{
+    "title": "How to learn flask",
+    "author": "Ahsan Naqvi",
+    "code": "<h1 style=\"text-align:center\"><span style=\"font-family:Verdana,Geneva,sans-serif\"><strong>Flask<\/strong><\/span><\/h1>\r\n\r\n<hr \/>\r\n<p style=\"text-align:center\"><span style=\"font-family:Verdana,Geneva,sans-serif\"><span style=\"color:#000000\">Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions <\/span><\/span><\/p>\r\n\r\n<hr \/>\r\n<div data-oembed-url=\"https:\/\/flask.palletsprojects.com\/en\/1.1.x\/_images\/debugger.png\">\r\n<div style=\"max-width: 803px;\">\r\n<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 94.1704%;\"><iframe allowfullscreen=\"\" src=\"\/\/if-cdn.com\/UN08IBa\" style=\"top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;\" tabindex=\"-1\"><\/iframe><\/div>\r\n<\/div>\r\n<\/div>\r\n\r\n<p style=\"text-align:center\">&nbsp;<\/p>\r\n",
+    "mediadesc": "Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.",
+    "slug": "how-to-learn-flask"
+}

@@ -1,0 +1,13 @@
+.container{
+    max-width: 75vw;
+    margin: 50px auto;
+}
+.center{
+    text-align: center;
+}
+.grey{
+    color: grey;
+}
+.margin{
+    margin-top: 18vh;
+  }
